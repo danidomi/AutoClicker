@@ -15,8 +15,8 @@ Public Class Form1
     Dim textBoxes() As TextBox
 
     Private Sub EmulateClickEvent()
-        mouse_event(&H2, 0, 0, 0, 0) 'cursor will go down (like a click)
-        mouse_event(&H4, 0, 0, 0, 0) ' cursor goes up again
+        mouse_event(&H2, 0, 0, 0, 1) 'cursor will go down (like a click)
+        mouse_event(&H4, 0, 0, 0, 1) ' cursor goes up again
         TextBox3.Text = Times
 
     End Sub
@@ -43,7 +43,6 @@ Public Class Form1
         Else
             Times = 0
             Timer1.Stop()
-            Thread.Sleep(Timer1.Interval)
         End If
 
     End Sub
@@ -119,7 +118,6 @@ Public Class Form1
     End Sub
 
     Private Sub Timer2_Tick(sender As Object, e As EventArgs) Handles Timer2.Tick
-        milliseconds += 1
         Dim Hotkey As Boolean
         Hotkey = GetAsyncKeyState(Keys.F3)
         If Hotkey = True Then
