@@ -1,0 +1,14 @@
+C:\Users\Daniel Domingues\Dropbox\Projectos\MacroAim\MacroAim\MacroAim\obj\Debug\MacroAim.Form1.resources
+C:\Users\Daniel Domingues\Dropbox\Projectos\MacroAim\MacroAim\MacroAim\obj\Debug\MacroAim.Resources.resources
+C:\Users\Daniel Domingues\Dropbox\Projectos\MacroAim\MacroAim\MacroAim\obj\Debug\MacroAim.vbproj.GenerateResource.Cache
+C:\Users\Daniel Domingues\Dropbox\Projectos\MacroAim\MacroAim\MacroAim\bin\Debug\AutoClick.exe.config
+C:\Users\Daniel Domingues\Dropbox\Projectos\MacroAim\MacroAim\MacroAim\bin\Debug\AutoClick.exe.manifest
+C:\Users\Daniel Domingues\Dropbox\Projectos\MacroAim\MacroAim\MacroAim\bin\Debug\AutoClick.application
+C:\Users\Daniel Domingues\Dropbox\Projectos\MacroAim\MacroAim\MacroAim\bin\Debug\AutoClick.exe
+C:\Users\Daniel Domingues\Dropbox\Projectos\MacroAim\MacroAim\MacroAim\bin\Debug\AutoClick.pdb
+C:\Users\Daniel Domingues\Dropbox\Projectos\MacroAim\MacroAim\MacroAim\bin\Debug\AutoClick.xml
+C:\Users\Daniel Domingues\Dropbox\Projectos\MacroAim\MacroAim\MacroAim\obj\Debug\AutoClick.exe.manifest
+C:\Users\Daniel Domingues\Dropbox\Projectos\MacroAim\MacroAim\MacroAim\obj\Debug\AutoClick.application
+C:\Users\Daniel Domingues\Dropbox\Projectos\MacroAim\MacroAim\MacroAim\obj\Debug\AutoClick.exe
+C:\Users\Daniel Domingues\Dropbox\Projectos\MacroAim\MacroAim\MacroAim\obj\Debug\AutoClick.xml
+C:\Users\Daniel Domingues\Dropbox\Projectos\MacroAim\MacroAim\MacroAim\obj\Debug\AutoClick.pdb
