@@ -112,9 +112,9 @@ Public Class Form1
             Timer1.Start()
         End If
         'Not working long clicks
-        If milliseconds > 1 Then
-            mouse_event(&H4, 0, 0, 0, 0)
-        End If
+        'If milliseconds > 1 Then
+        'mouse_event(&H4, 0, 0, 0, 0)
+        'End If
 
     End Sub
 
