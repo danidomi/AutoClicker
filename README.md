@@ -8,7 +8,7 @@ A simple way to perform an amount of Left clicks based on the configurations.
 Usage
 -------
 
-1. Download from root folder **AutoClicker.exe**
+1. Download from root folder **[AutoClick.exe!](AutoClick.exe)**
 2. Right click on it and **Run as administrator**
 3. Enjoy
 
