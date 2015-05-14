@@ -1,13 +1,16 @@
-# AutoClicker
-Auto Clicker
-
-
 AutoClicker VB
 ==================
 
-A simple way to perform an amount of Left clicks based on the configurations
+A simple way to perform an amount of Left clicks based on the configurations.
 
 ![Demos](https://github.com/danidomi/AutoClicker/blob/master/screen_auto_clicker.png "Demos")
+
+Usage
+-------
+
+1. Download from root folder **AutoClicker.exe**
+2. Right click on it and **Run as administrator**
+3. Enjoy
 
 Credits
 -------
