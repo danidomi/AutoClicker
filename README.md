@@ -31,4 +31,4 @@ Author:  Daniel Domingues
 
 The code in this project is licensed under the Apache Software License 2.0.
 <br />
-Copyright (c) 2015 TwoLazy Ltd.
+Copyright (c) 2020 TwoLazy Ltd.
